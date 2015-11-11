@@ -15,4 +15,4 @@ A bunch of links to graphics development resources.
 * https://github.com/tobspr/RenderPipeline
 
 
-Link [here](http://ahcox.com/graphics-resources).
+Link [here](http://ahcox.com/graphics/graphics-resources).
