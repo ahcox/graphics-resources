@@ -1,6 +1,3 @@
-A bunch of links to graphics development resources.
-
-
 ### Graphics Debuggers
 
 #### Renderdoc
@@ -10,7 +7,7 @@ A bunch of links to graphics development resources.
 * OpenGL Capture on Linux but better to playback on Windows.
 
 #### apitrace
-[http://apitrace.github.io/][(http://apitrace.github.io/)
+[http://apitrace.github.io/](http://apitrace.github.io/)
 
 * "trace OpenGL, OpenGL ES, Direct3D, and DirectDraw"
 * Android, Linux, OS X, Windows
