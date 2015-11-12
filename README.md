@@ -11,7 +11,7 @@
 
 * "trace OpenGL, OpenGL ES, Direct3D, and DirectDraw"
 * Android, Linux, OS X, Windows
-* 
+
 #### GLAVE
 [Wikipedia entry](https://en.wikipedia.org/wiki/GLAVE_(software)).
 Vulkan debugger.
