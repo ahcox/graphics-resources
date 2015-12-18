@@ -39,12 +39,15 @@ Vulkan debugger.
     * PowerVR: http://community.imgtec.com/developers/powervr/tools/pvrtrace/
     * Qualcomm Adreno GPU Profiler: https://developer.qualcomm.com/software/adreno-gpu-profiler
 
-### Realtime Physically Based Rendering [PBR]
+### Realtime Rendering
 
-#### Panda3D RenderPipeline
+*  [A deferred material rendering system by Tomasz Stachowiak](https://onedrive.live.com/view.aspx?resid=EBE7DEDA70D06DA0!115&app=PowerPoint&authkey=!AP-pDh4IMUug6vs)
+ 
+#### Realtime Physically Based Rendering [PBR]
+
+##### Panda3D RenderPipeline
 
 * [http://www.panda3d.org/forums/viewtopic.php?f=6&t=17050](http://www.panda3d.org/forums/viewtopic.php?f=6&t=17050)
 * [https://github.com/tobspr/RenderPipeline](http://www.panda3d.org/forums/viewtopic.php?f=6&t=17050)
-
 
 Link [here](http://ahcox.com/graphics/graphics-resources).
