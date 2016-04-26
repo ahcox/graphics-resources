@@ -18,8 +18,8 @@ Vulkan debugger.
 
 #### Others
 
-* https://github.com/ValveSoftware/vogl
-* https://github.com/dtrebilco/glintercept
+* <https://github.com/ValveSoftware/vogl>
+* <https://github.com/dtrebilco/glintercept>
 * http://benvanik.github.io/WebGL-Inspector/
 * http://glsl-debugger.github.io/
 * http://graphics.stanford.edu/~mdfisher/D3D9Interceptor.html
@@ -50,4 +50,4 @@ Vulkan debugger.
 * [http://www.panda3d.org/forums/viewtopic.php?f=6&t=17050](http://www.panda3d.org/forums/viewtopic.php?f=6&t=17050)
 * [https://github.com/tobspr/RenderPipeline](http://www.panda3d.org/forums/viewtopic.php?f=6&t=17050)
 
-Link [here](http://ahcox.com/graphics/graphics-resources).
+Link [here](http://ahcox.com/graphics/graphics-resources). [Edit](https://github.com/ahcox/graphics-resources/edit/master/README.md) this page.
