@@ -3,8 +3,8 @@
 #### Renderdoc
 [https://github.com/baldurk/renderdoc](https://github.com/baldurk/renderdoc)
 
-* DX11 and OpenGL on Windows
-* OpenGL Capture on Linux but better to playback on Windows.
+* Vulkan, DX11 and OpenGL on Windows
+* Vulkan and OpenGL Capture on Linux but no UI so it is better to playback on Windows.
 
 #### apitrace
 [http://apitrace.github.io/](http://apitrace.github.io/)
