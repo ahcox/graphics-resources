@@ -39,11 +39,11 @@ Vulkan debugger.
     * PowerVR: <http://community.imgtec.com/developers/powervr/tools/pvrtrace/>
     * Qualcomm Adreno GPU Profiler: <https://developer.qualcomm.com/software/adreno-gpu-profiler>
 
-### Realtime Rendering
+### Real-Time Rendering
 
 *  [A deferred material rendering system by Tomasz Stachowiak](https://onedrive.live.com/view.aspx?resid=EBE7DEDA70D06DA0!115&app=PowerPoint&authkey=!AP-pDh4IMUug6vs)
  
-#### Realtime Physically Based Rendering [PBR]
+#### Real-Time Physically Based Rendering [PBR]
 
 * [A Glossary of Physically-Based Reflectance](http://web.archive.org/web/20180218190946/http://jankautz.com/courses/GameCourse/08_Glossary.pdf)
 * [Siggraph 2006 Course: Physically-Based Reflectance for Games](http://web.archive.org/web/20161027153222/http://jankautz.com/courses/GameCourse/)
@@ -55,9 +55,9 @@ Vulkan debugger.
 * [https://github.com/tobspr/RenderPipeline](http://www.panda3d.org/forums/viewtopic.php?f=6&t=17050)
 
 
-#### Realtime Shadows
+#### Real-Time Shadows
 
-Realtime shadows have traditionaly come down to one of three options.
+Real-time shadows have traditionaly come down to one of three options.
 
 1. **Projected Shadows**: Real or proxy geometry such as a disk projected onto a shadow-receiving surface, most simply a ground plane.
 1. **Shadow Volumes**: Extruding silhouette edges of shadow casting objects from the point of view of a light source.
@@ -111,6 +111,18 @@ Hardware-Accelerated Rendering ](http://web.archive.org/web/20180218185437/http:
    in VSM-based methods by appropriately subdividing the filter kernel. We demonstrate that VSSM renders highquality
    soft shadows efficiently (usually over 100 fps) for complex scene settings. Its speed is at least one order of
    magnitude faster than PCSS for large penumbra."_
+   
+   
+* [SIGGRAPH 2013, Playing with Real-Time Shadows, Nikolas Kasyan](http://web.archive.org/web/20161027041400/http://www.crytek.com/download/Playing%20with%20Real-Time%20Shadows.pdf)
+   Covers the composition of an overall shadowing approach for an AAA game from a number of techniques:
+   Deferred Shadows,
+   Cascaded shadow maps,
+   Soft Shadows Approximation,
+   Shadows & Transparency,
+   Contact Shadows/SSDO,
+   Screen Space Self-Shadowing,
+   Volumetric shadows,
+   Area Light Shadows.
 
 
 Link [here](http://ahcox.com/graphics/graphics-resources). [Edit](https://github.com/ahcox/graphics-resources/edit/master/README.md) this page.
