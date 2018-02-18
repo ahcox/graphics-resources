@@ -131,4 +131,14 @@ Hardware-Accelerated Rendering ](http://web.archive.org/web/20180218185437/http:
 * [Links](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
 
 
+#### Game Rendering
+ 
+* [Metal Gear Solid V - Graphics Study](http://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/)
+* [DOOM (2016) - Graphics Study](http://web.archive.org/web/20180123220625/http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
+* GTA V - Graphics Study
+   * [GTA V - Graphics Study, Part 1: Dissecting a Frame](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/)
+   * [GTA V - Graphics Study, Part 2: LOD and Reflections](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study-part-2/)
+   * [GTA V - Graphics Study, Part 3: Post-Effects](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study-part-3/)
+
+
 Link [here](http://ahcox.com/graphics/graphics-resources). [Edit](https://github.com/ahcox/graphics-resources/edit/master/README.md) this page.
