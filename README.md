@@ -79,8 +79,38 @@ with Smoothies](http://web.archive.org/web/20170403181149/http://jankautz.com/co
 Hardware-Accelerated Rendering ](http://web.archive.org/web/20180218185437/http://jankautz.com/courses/ShadowCourse/07-ShadowVolumes.pdf)
     * [A Soft Shadow Volume Algorithm](http://web.archive.org/web/20170403134902/http://jankautz.com/courses/ShadowCourse/08-SoftShadowVolumes.pdf)
 
+* [Convolution Shadow Maps](http://web.archive.org/web/20161027151805/http://jankautz.com/publications/csmEGSR07.pdf)
+  _"**Abstract**:
+  We present Convolution Shadow Maps, a novel shadow representation that affords efficient arbitrary linear filtering
+  of shadows. Traditional shadow mapping is inherently non-linear w.r.t. the stored depth values, due to the
+  binary shadow test. We linearize the problem by approximating shadow test as a weighted summation of basis
+  terms. We demonstrate the usefulness of this representation, and show that hardware-accelerated anti-aliasing
+  techniques, such as tri-linear filtering, can be applied naturally to Convolution Shadow Maps. Our approach can
+  be implemented very efficiently in current generation graphics hardware, and offers real-time frame rates."_
 
-
+* [Exponential Shadow Maps](http://web.archive.org/web/20161027150516/http://jankautz.com/publications/esm_gi08.pdf)
+  _"**Abstract**:
+   Rendering high-quality shadows in real-time is a challenging problem.
+   Shadow mapping has proved to be an efficient solution, as it
+   scales well for complex scenes. However, it suffers from aliasing
+   problems. Filtering the shadow map alleviates aliasing, but unfortunately,
+   native hardware-accelerated filtering cannot be applied, as
+   the shadow test has to take place beforehand.
+   We introduce a simple approach to shadow map filtering, by approximating
+   the shadow test using an exponential function. This
+   enables us to pre-filter the shadow map, which in turn allows for
+   high quality hardware-accelerated filtering. Compared to previous
+   filtering techniques, our technique is faster, consumes less memory
+   and produces less artifacts"_
+* [Variance Soft Shadow Mapping](http://web.archive.org/web/20161027145838/http://jankautz.com/publications/VSSM_PG2010.pdf)
+  _"**Abstract**
+   We present variance soft shadow mapping (VSSM) for rendering plausible soft shadow in real-time. VSSM is based
+   on the theoretical framework of percentage-closer soft shadows (PCSS) and exploits recent advances in variance
+   shadow mapping (VSM). Our new formulation allows for the efficient computation of (average) blocker distances,
+   a common bottleneck in PCSS-based methods. Furthermore, we avoid incorrectly lit pixels commonly encountered
+   in VSM-based methods by appropriately subdividing the filter kernel. We demonstrate that VSSM renders highquality
+   soft shadows efficiently (usually over 100 fps) for complex scene settings. Its speed is at least one order of
+   magnitude faster than PCSS for large penumbra."_
 
 
 Link [here](http://ahcox.com/graphics/graphics-resources). [Edit](https://github.com/ahcox/graphics-resources/edit/master/README.md) this page.
