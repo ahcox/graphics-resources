@@ -139,6 +139,8 @@ Hardware-Accelerated Rendering ](http://web.archive.org/web/20180218185437/http:
    * [GTA V - Graphics Study, Part 1: Dissecting a Frame](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/)
    * [GTA V - Graphics Study, Part 2: LOD and Reflections](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study-part-2/)
    * [GTA V - Graphics Study, Part 3: Post-Effects](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study-part-3/)
+* [Supreme Commander - Graphics Study](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
+* [Deus Ex: Human Revolution - Graphics Study](http://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/)
 
 
 Link [here](http://ahcox.com/graphics/graphics-resources). [Edit](https://github.com/ahcox/graphics-resources/edit/master/README.md) this page.
