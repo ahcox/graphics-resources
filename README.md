@@ -123,6 +123,12 @@ Hardware-Accelerated Rendering ](http://web.archive.org/web/20180218185437/http:
    Screen Space Self-Shadowing,
    Volumetric shadows,
    Area Light Shadows.
+   
+##### Variance Shadow Mapping
+* [Original paper with source](http://web.archive.org/web/20180102152226/http://www.punkuser.net/vsm/)
+* [GDC 2006 Presentation](http://web.archive.org/web/20060501230037/http://download.nvidia.com:80/developer/presentations/2006/gdc/2006-GDC-Variance-Shadow-Maps.pdf)
+* [Nvidia 2007 Implementation](http://web.archive.org/web/20120121060035/http://developer.download.nvidia.com/SDK/10.5/direct3d/Source/VarianceShadowMapping/Doc/VarianceShadowMapping.pdf)
+* [Links](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
 
 
 Link [here](http://ahcox.com/graphics/graphics-resources). [Edit](https://github.com/ahcox/graphics-resources/edit/master/README.md) this page.
