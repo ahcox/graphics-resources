@@ -57,7 +57,7 @@ Vulkan debugger.
 
 #### Real-Time Shadows
 
-Real-time shadows have traditionaly come down to one of three options.
+Real-time shadows have traditionaly come down to [one of three options](http://web.archive.org/web/20170909015242/http://www.vectorstorm.org/2012/05/15/lets-talk-about-shadows/).
 
 1. **Projected Shadows**: Real or proxy geometry such as a disk projected onto a shadow-receiving surface, most simply a ground plane.
 1. **Shadow Volumes**: Extruding silhouette edges of shadow casting objects from the point of view of a light source.
