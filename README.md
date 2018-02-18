@@ -45,9 +45,19 @@ Vulkan debugger.
  
 #### Realtime Physically Based Rendering [PBR]
 
+* [A Glossary of Physically-Based Reflectance](http://web.archive.org/web/20180218190946/http://jankautz.com/courses/GameCourse/08_Glossary.pdf)
+* [Siggraph 2006 Course: Physically-Based Reflectance for Games](http://web.archive.org/web/20161027153222/http://jankautz.com/courses/GameCourse/)
+    * [Reflectance](http://web.archive.org/web/20170403181313/http://jankautz.com/courses/GameCourse/02_Reflectance.pdf)
+
 ##### Panda3D RenderPipeline
 
 * [http://www.panda3d.org/forums/viewtopic.php?f=6&t=17050](http://www.panda3d.org/forums/viewtopic.php?f=6&t=17050)
 * [https://github.com/tobspr/RenderPipeline](http://www.panda3d.org/forums/viewtopic.php?f=6&t=17050)
+
+
+
+
+
+
 
 Link [here](http://ahcox.com/graphics/graphics-resources). [Edit](https://github.com/ahcox/graphics-resources/edit/master/README.md) this page.
