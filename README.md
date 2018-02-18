@@ -55,6 +55,29 @@ Vulkan debugger.
 * [https://github.com/tobspr/RenderPipeline](http://www.panda3d.org/forums/viewtopic.php?f=6&t=17050)
 
 
+#### Realtime Shadows
+
+Realtime shadows have traditionaly come down to one of three options.
+
+1. **Projected Shadows**: Real or proxy geometry such as a disk projected onto a shadow-receiving surface, most simply a ground plane.
+1. **Shadow Volumes**: Extruding silhouette edges of shadow casting objects from the point of view of a light source.
+                           Drawing them into stencil buffer of main camera viewpoint to count whether nearest visible surfaces are in shadow or not. 
+1. **Shadow Maps**: Draw scene into a texture map from point of view of a light to amortize calculation of visibility of all locations in the scene
+                        from the light.
+                        During shading points in the scene from main viewpoint, project into the shadow texture map to find out whether they are
+                        directly lit from a particular light.
+
+* [Siggraph 2004 Shadows Course](http://web.archive.org/web/20161027151834/http://jankautz.com/courses/ShadowCourse/)
+    * [Shadow Mapping](http://web.archive.org/web/20170403184159/http://jankautz.com/courses/ShadowCourse/02-ShadowMaps.pdf)
+    * [Perspective Shadow Maps](http://web.archive.org/web/20170403124905/http://jankautz.com/courses/ShadowCourse/03-PerspectiveSM.pdf)
+    * [Shadow Silhouette Maps](http://web.archive.org/web/20170403181420/http://jankautz.com/courses/ShadowCourse/04-SilhouetteMap.pdf)
+    * [Soft Shadow Maps Soft Shadow Maps
+for Linear Lights](http://web.archive.org/web/20170403134344/http://jankautz.com/courses/ShadowCourse/05-LinearLights.pdf)
+    * [Rendering Fake Soft Shadows
+with Smoothies](http://web.archive.org/web/20170403181149/http://jankautz.com/courses/ShadowCourse/06-Smoothies.pdf)
+    * [Practical and Robust Stenciled Shadow Volumes for
+Hardware-Accelerated Rendering ](http://web.archive.org/web/20180218185437/http://jankautz.com/courses/ShadowCourse/07-ShadowVolumes.pdf)
+    * [A Soft Shadow Volume Algorithm](http://web.archive.org/web/20170403134902/http://jankautz.com/courses/ShadowCourse/08-SoftShadowVolumes.pdf)
 
 
 
